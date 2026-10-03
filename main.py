@@ -1,1 +1,5 @@
-print("Hello World")
+import portal
+import webserver
+
+if __name__ == '__main__':
+    print("Hello World")
