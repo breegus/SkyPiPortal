@@ -1,3 +1,3 @@
 #!/bin/bash
 
-git fetch https://github.com/breegus/SkyPiPortal.git
+git pull https://github.com/breegus/SkyPiPortal.git
